@@ -19,7 +19,7 @@ function CustomText({...props}) {
             fontWeight: props.fontWeight,
             fontStyle: props.fontStyle,
             textAlign: props.textAlign,
-            fontFamily: props.fontFamily || "ClashDisplay-Regular",
+            fontFamily: props.fontFamily ,
             textAlign: props.textAlign,
             lineHeight:props.lineHeight,
             float: props.float,
